@@ -1,4 +1,4 @@
-# Retrieval-Augmented Generation with LangChain
+# Retrieval-Augmented Generation (RAG) with LangChain
 
 ## [Gemerate Response](https://github.com/johnson70630/Langchain-overview/blob/main/Langchain_overview/1_generate_responses.ipynb)
 
